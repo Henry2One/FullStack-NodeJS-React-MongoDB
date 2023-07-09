@@ -1,10 +1,9 @@
 # FullStack Node JS + React + MongoDB
 
-###-------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-#Introduction:
-###Web App full stack, node modules are ignored, to run the app install the following node_modules and mongoDB are installed.
-###
+#  Introduction:
+###  Web App full stack, node modules are ignored, to run the app install the following node_modules and mongoDB are installed.
 -------------------------------------------------------------------------------------------------------------------------------------------
 ###
 #Requeriments:
@@ -50,7 +49,7 @@
 ###
 -------------------------------------------------------------------------------------------------------------------------------------------
 ###
-###MongoDB builds bd "merndb" and collections "tasks", "users"
+### MongoDB builds bd "merndb" and collections "tasks", "users"
 ###
 -------------------------------------------------------------------------------------------------------------------------------------------
   
