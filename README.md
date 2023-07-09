@@ -18,7 +18,7 @@
 ####        - nodemon@1.19.4
 ####        - zod@3.21.4
 ###
-##    FrontEnd:
+###    FrontEnd:
 ####        - @types/react-dom@18.2.6
 ####        - @types/react@18.2.14
 ####        - @vitejs/plugin-react@4.0.1
